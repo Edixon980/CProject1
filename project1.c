@@ -21,7 +21,6 @@ void Problem2D();
 int factorial(unsigned int number);
 int square(int number);
 int cube(int number);
-int fifthPower(int number);
 
 int main(void)
 {

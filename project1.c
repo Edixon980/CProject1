@@ -1,7 +1,8 @@
 /*
   project1.c
 
-  This is the program for EEL 2880 project 1.
+  This program calculates and prints factorials and second, third, 
+  and fifth powers of some nummbers.
  */
 #include <stdio.h>
 
